@@ -356,7 +356,7 @@
     <string name="minions">Миньоны</string>
     <string name="public_title">Публичный</string>
     <string name="server_name">Имя сервера</string>
-    <string name="background_image">Фон картинка</string>
+    <string name="background_image">Фоновая картинка</string>
 
     <!--    Rate this app dialog -->
     <string name="smile_rating_terrible">Ужасно</string>
